@@ -1,0 +1,1 @@
+delete house_id from houses where house_id = $1;
